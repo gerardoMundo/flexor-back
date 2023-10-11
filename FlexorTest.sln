@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlexorTest", "FlexorTest\FlexorTest.csproj", "{2C74E1C1-6E0B-4082-B44A-4F53EEA4E35B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2C74E1C1-6E0B-4082-B44A-4F53EEA4E35B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C74E1C1-6E0B-4082-B44A-4F53EEA4E35B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C74E1C1-6E0B-4082-B44A-4F53EEA4E35B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C74E1C1-6E0B-4082-B44A-4F53EEA4E35B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AD4AE39D-E3ED-4CC3-8709-EE1170EE4061}
+	EndGlobalSection
+EndGlobal
